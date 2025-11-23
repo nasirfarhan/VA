@@ -1,0 +1,29 @@
+{
+  "name": "The Forgotten Prince",
+  "stats": {
+    "Strength": 10,
+    "Dexterity": 10,
+    "Intelligence": 10,
+    "Charisma": 10,
+    "HP": 20,
+    "Mana": 10,
+    "Speed": 30
+  },
+  "inventory": [],
+  "location": "palace",
+  "memory": [],
+  "relationships": {},
+  "traits": {
+    "Bloodline Mutation": "Cursed by Ashmelion",
+    "Alignment": "Neutral Good"
+  },
+  "skills": {
+    "Sunblood Strike": {"description": "A blade attack infused with divine heat", "type": "attack"},
+    "Ember Veil": {"description": "A defensive cloak of smoldering energy", "type": "defense"},
+    "Ashstep": {"description": "Teleport through drifting ash", "type": "utility"},
+    "Crown of Fury": {"description": "Summons wrath of the Burning Crown", "type": "attack"},
+    "Black Sun Whispers": {"description": "Extract forbidden knowledge", "type": "utility"},
+    "Phoenix Pulse": {"description": "Self-healing surge of Ember Heart", "type": "heal"},
+    "Eclipse Gaze": {"description": "Inflicts fear and weakness", "type": "debuff"}
+  }
+}
