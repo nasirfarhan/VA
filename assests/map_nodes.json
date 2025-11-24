@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {
+      "name": "Town",
+      "position": "center",
+      "connections": [
+        {
+          "direction": "east",
+          "node": "Wilderness"
+        },
+        {
+          "direction": "south",
+          "node": "Ember Sanctum"
+        }
+      ]
+    },
+    {
+      "name": "Wilderness",
+      "position": "east of Town, west of Castle",
+      "connections": [
+        {
+          "direction": "west",
+          "node": "Town"
+        },
+        {
+          "direction": "east",
+          "node": "Castle"
+        }
+      ]
+    },
+    {
+      "name": "Castle",
+      "position": "east of Wilderness",
+      "connections": [
+        {
+          "direction": "inside",
+          "node": "Throne Room"
+        },
+        {
+          "direction": "west",
+          "node": "Wilderness"
+        }
+      ]
+    },
+    {
+      "name": "Throne Room",
+      "position": "inside Castle",
+      "connections": [
+        {
+          "direction": "outside",
+          "node": "Castle"
+        }
+      ]
+    },
+    {
+      "name": "Ember Sanctum",
+      "position": "south of Town",
+      "connections": [
+        {
+          "direction": "north",
+          "node": "Town"
+        }
+      ]
+    }
+  ]
+}

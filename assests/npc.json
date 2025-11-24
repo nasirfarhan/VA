@@ -1,0 +1,68 @@
+[
+  {
+    "id": "seraphine",
+    "name": "Seraphine Ashweaver",
+    "stats": {
+      "Strength": 8,
+      "Dexterity": 12,
+      "Intelligence": 15,
+      "Charisma": 13,
+      "HP": 16,
+      "Mana": 18,
+      "Speed": 30
+    },
+    "relationships": {},
+    "memory": [],
+    "traits": {
+      "Role": "Priestess of the Black Sun",
+      "Personality": "Mysterious, manipulative"
+    },
+    "alignment": "Lawful Neutral",
+    "location": "chapel",
+    "goals": ["Guide the prince", "Serve the Black Sun"]
+  },
+  {
+    "id": "kael",
+    "name": "Kael Thornbrand",
+    "stats": {
+      "Strength": 14,
+      "Dexterity": 11,
+      "Intelligence": 10,
+      "Charisma": 9,
+      "HP": 22,
+      "Mana": 6,
+      "Speed": 30
+    },
+    "relationships": {},
+    "memory": [],
+    "traits": {
+      "Role": "Rebel Knight",
+      "Personality": "Loyal, seeking redemption"
+    },
+    "alignment": "Chaotic Good",
+    "location": "ember_sanctum",
+    "goals": ["Redeem himself", "Protect the prince"]
+  },
+  {
+    "id": "cinder_prophet",
+    "name": "The Cinder Prophet",
+    "stats": {
+      "Strength": 7,
+      "Dexterity": 10,
+      "Intelligence": 16,
+      "Charisma": 12,
+      "HP": 12,
+      "Mana": 20,
+      "Speed": 25
+    },
+    "relationships": {},
+    "memory": [],
+    "traits": {
+      "Role": "Oracle of the Ember Heart",
+      "Personality": "Blind, enigmatic"
+    },
+    "alignment": "True Neutral",
+    "location": "ember_sanctum",
+    "goals": ["Channel the Ember Heart", "Guide the prince through trials"]
+  }
+]

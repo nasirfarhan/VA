@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Blade of the First Dawn",
+    "description": "A legendary sword that emits holy fire.",
+    "properties": {"type": "legendary", "effect": "holy fire", "damage": 12}
+  },
+  {
+    "name": "Ashen Mantle",
+    "description": "A cloak that grants shadow flame defense.",
+    "properties": {"type": "legendary", "effect": "shadow flame defense"}
+  },
+  {
+    "name": "Emberheart Sigil",
+    "description": "A sigil that revives the wielder once.",
+    "properties": {"type": "legendary", "effect": "revive once"}
+  },
+  {
+    "name": "Crownshard Fragment",
+    "description": "A fragment that opens paths tied to prophecies.",
+    "properties": {"type": "legendary", "effect": "open prophecy paths"}
+  },
+  {
+    "name": "Healing Dust",
+    "description": "A common powder that heals minor wounds.",
+    "properties": {"type": "common", "effect": "heal", "heal": 5}
+  },
+  {
+    "name": "Minor Ember Potion",
+    "description": "A potion that restores a small amount of mana.",
+    "properties": {"type": "common", "effect": "restore mana", "mana": 5}
+  },
+  {
+    "name": "Iron Shortblade",
+    "description": "A basic iron shortblade.",
+    "properties": {"type": "common", "damage": 4}
+  },
+  {
+    "name": "Tattered Cloak",
+    "description": "A worn cloak offering little protection.",
+    "properties": {"type": "common", "effect": "minor defense"}
+  }
+]
